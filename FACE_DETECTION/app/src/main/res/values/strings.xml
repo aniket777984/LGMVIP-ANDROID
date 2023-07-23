@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Face_Args</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="xaxisstr">X :</string>
+    <string name="yaxisstr">Y :</string>
+    <string name="zaxisstr">Z :</string>
+    <string name="smilestr">Smile :</string>
+    <string name="left_eyestr">Left Eye Open :</string>
+    <string name="right_eyestr">Right Eye Open :</string>
+    <string name="faceidstr">FaceID :</string>
+</resources>
